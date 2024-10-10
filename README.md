@@ -3,11 +3,11 @@ This is the core of the Bhadale IT Hub that offers the minimum base image requir
 
 Few of the questions that are addressed to ensure quality are:  
 
-1)How will QAI hub facilitate the fusion of the available STDs, frameworks and any required Code, FPGA, elements in an integrated Systems, Software, HW,NW, Sec design and operations. Will this be a new architecture for QAI hub. How unique this is from other middlewares, control systems, Hybrid systems. Will it be an universal framework for the universal QC for FPGA QC.
+1) How will QAI hub facilitate the fusion of the available STDs, frameworks and any required Code, FPGA, elements in an integrated Systems, Software, HW,NW, Sec design and operations. Will this be a new architecture for QAI hub. How unique this is from other middlewares, control systems, Hybrid systems. Will it be an universal framework for the universal QC for FPGA QC.
 
-2)What language will it use , python, assembly, and AI intelligent mapping, transformer to route data in a auto pilot model. 
+2) What language will it use , python, assembly, and AI intelligent mapping, transformer to route data in a auto pilot model. 
 
-3)Why is a need for another hub, when existing hybrid multi cloud, multi platforms offer good support. Will it be focused on QAI technologies like quantum internet, Intelligent nw, self diagnosis, self heal, 6G etc. 
+3) Why is a need for another hub, when existing hybrid multi cloud, multi platforms offer good support. Will it be focused on QAI technologies like quantum internet, Intelligent nw, self diagnosis, self heal, 6G etc. 
 
 4) How QAI hub offer services, API, REST, Soa, Security, network and interfaces to popular cloud platforms.
 
