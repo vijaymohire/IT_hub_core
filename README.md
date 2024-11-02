@@ -1,5 +1,8 @@
 # IT_hub_core
-This is the core of the Bhadale IT Hub that offers the minimum base image required to integrate various platform and technologies and is driven by a good middleware allowing for  rapid onboarding 
+This is the core of the Bhadale IT Hub that offers the minimum base image required to integrate various platform and technologies and is driven by a good middleware allowing for  rapid onboarding. The hub core is another module of the overall hub architecture along with multi cloud platform interfaces, API interfaces, aggregation layers, quantum layers, AI/ML layers etc. Typically the core represents the server part of the overall system, however the client part is the Solution Cafe that will also has a smaller footprint of this core. Domain specific layers, Quantum layer, AI,ML layers and many more identified layers will have various elements and these are then aggregated in these layers based on user requests. Admins will create and configure the layers and have pointers to various hub assets that host third party entitites like cloud assets. 
+
+Clients typically have client side apps, terminal windows,or quatum layer based secure communication along with the classical 7 layer OSI stack. Quantum protocols for superposition, entanglement, teleportation, blind computing, dense coding, density matrix , quantum channels etc all will allow for the adaption of the QAI features and use of photonics-atom interaction principles for encoding, communication and decoding.      
+
 
 Few of the questions that are addressed to ensure quality are:  
 
